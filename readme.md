@@ -37,7 +37,6 @@ TODO/
 ## 📥 Installation & Setup
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/your-username/todo-cli.git
 
 ### 2. install dependencies
