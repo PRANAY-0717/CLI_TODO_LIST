@@ -44,7 +44,7 @@ npm install
 
 ---
 
-##Usage
+## Usage
 
 ➕ Add a Task
 node index.js add "Buy groceries"
@@ -57,11 +57,11 @@ node index.js list
 
 ---
 
-##Author
+## Author
 Pranay Jaiswal
 Built while learning Node.js, CLI tools, and backend fundamentals.
 
-##Support
+## Support
 If you like this project, consider ⭐ starring the repo!
 It motivates me to build more tools.
 
